@@ -1,1 +1,1 @@
-# Beta_project
+# Beta_project student mangement
